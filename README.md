@@ -1,3 +1,3 @@
-# password-generator
+# generador de contraseñas
 
-This is a random password generator built in AngularJS
+Este es un generador de contraseñas aleatorias construido en AngularJS
