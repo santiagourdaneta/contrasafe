@@ -1,0 +1,47 @@
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	 
+}
+
+.container {
+	margin-top: 75px;
+	 
+	width: 75%;
+	float: none;
+	border-radius: 15px;
+	 
+}
+
+h1 {
+	font-weight: bold;
+}
+
+.header, .options, .results, .selectTitle {
+	 
+}
+
+ul, li {
+	list-style: none;
+}
+
+.app {
+	float: none; margin: 0 auto;
+}
+
+.newPasswordsDisplay {
+	font-family: 'Slabo 27px', serif;
+}
+
+.header, .selectBox, .options, .credits {
+	text-align: center;
+}
+
+.results{
+	text-align: center;
+}
+
+.newPasswordsDisplay {
+	font-weight: bold;
+}
+
